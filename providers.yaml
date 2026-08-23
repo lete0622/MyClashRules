@@ -1,0 +1,8 @@
+rule-providers:
+  Apple:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Apple/Apple.yaml
+    path: ./rules/Apple.yaml
+    interval: 86400
