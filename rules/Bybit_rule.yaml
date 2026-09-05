@@ -1,4 +1,4 @@
-# NAME:prepend_rule
+# NAME:Bybit_Rule
 
 payload:
  - DOMAIN-SUFFIX,bybit.com
