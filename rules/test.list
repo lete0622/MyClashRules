@@ -1,1 +1,7 @@
-DOMAIN-SUFFIX,openai.com
+# NAME:prepend_rule
+
+payload:
+  - DOMAIN-KEYWORD,hanime,🇭🇰 Hong Kong
+  - DOMAIN-KEYWORD,asmr,🇭🇰 Hong Kong
+  - PROCESS-NAME,M9A.exe,Kuromis
+  - PROCESS-NAME,reverse1999.exe,Kuromis
