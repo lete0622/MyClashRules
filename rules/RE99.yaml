@@ -1,0 +1,7 @@
+# NAME:RE99_Rule
+
+payload:
+  - DOMAIN-KEYWORD,reverse1999,RE99
+  - PROCESS-NAME,M9A.exe,RE99
+  - PROCESS-NAME,reverse1999.exe,RE99
+  - PROCESS-NAME,reverse1999-launcher.exe,RE99

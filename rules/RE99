@@ -1,5 +1,0 @@
-# NAME:Bybit_Rule
-
-payload:
-  - PROCESS-NAME,M9A.exe,RE99
-  - PROCESS-NAME,reverse1999.exe,RE99
