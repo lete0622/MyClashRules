@@ -1,7 +1,10 @@
- - DOMAIN-KEYWORD,bycsi
- DOMAIN-SUFFIX,mexc.fm
-DOMAIN-SUFFIX,mexc.com
-DOMAIN-SUFFIX,mocortech.com
-DOMAIN-SUFFIX,flytogarden.com
-DOMAIN-SUFFIX,greentreeone.com
-DOMAIN-SUFFIX,hotbookzone.com
+# NAME:MEXC_Rule
+
+payload:
+ - DOMAIN-KEYWORD,mexc
+ - DOMAIN-SUFFIX,mexc.fm
+ - DOMAIN-SUFFIX,mexc.com
+ - DOMAIN-SUFFIX,mocortech.com
+ - DOMAIN-SUFFIX,flytogarden.com
+ - DOMAIN-SUFFIX,greentreeone.com
+ - DOMAIN-SUFFIX,hotbookzone.com
